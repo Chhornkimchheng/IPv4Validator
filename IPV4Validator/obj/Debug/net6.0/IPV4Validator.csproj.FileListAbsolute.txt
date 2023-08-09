@@ -1,0 +1,14 @@
+E:\Explore\IPV4Validator\IPV4Validator\bin\Debug\net6.0\IPV4Validator.exe
+E:\Explore\IPV4Validator\IPV4Validator\bin\Debug\net6.0\IPV4Validator.deps.json
+E:\Explore\IPV4Validator\IPV4Validator\bin\Debug\net6.0\IPV4Validator.runtimeconfig.json
+E:\Explore\IPV4Validator\IPV4Validator\bin\Debug\net6.0\IPV4Validator.dll
+E:\Explore\IPV4Validator\IPV4Validator\bin\Debug\net6.0\IPV4Validator.pdb
+E:\Explore\IPV4Validator\IPV4Validator\obj\Debug\net6.0\IPV4Validator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Explore\IPV4Validator\IPV4Validator\obj\Debug\net6.0\IPV4Validator.AssemblyInfoInputs.cache
+E:\Explore\IPV4Validator\IPV4Validator\obj\Debug\net6.0\IPV4Validator.AssemblyInfo.cs
+E:\Explore\IPV4Validator\IPV4Validator\obj\Debug\net6.0\IPV4Validator.csproj.CoreCompileInputs.cache
+E:\Explore\IPV4Validator\IPV4Validator\obj\Debug\net6.0\IPV4Validator.dll
+E:\Explore\IPV4Validator\IPV4Validator\obj\Debug\net6.0\refint\IPV4Validator.dll
+E:\Explore\IPV4Validator\IPV4Validator\obj\Debug\net6.0\IPV4Validator.pdb
+E:\Explore\IPV4Validator\IPV4Validator\obj\Debug\net6.0\IPV4Validator.genruntimeconfig.cache
+E:\Explore\IPV4Validator\IPV4Validator\obj\Debug\net6.0\ref\IPV4Validator.dll
